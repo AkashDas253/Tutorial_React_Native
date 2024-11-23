@@ -23,3 +23,4 @@ This repository is meant to contain the learning and practice done using React N
 
 ## Mini Projects
 - [Task Taker (To Do List)](mini_projects/task-manager/)
+- [Calculator](mini_projects/Calculator/)
