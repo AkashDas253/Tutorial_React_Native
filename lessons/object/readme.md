@@ -1,4 +1,4 @@
-### **Object Types in React Native**
+## **Object Types in React Native**
 
 React Native provides various object types to handle events, layout, and UI elements. Below is a detailed overview of some common object types like `LayoutEvent`, `PressEvent`, `ReactNode`, `Rect`, and `ViewToken`.
 
@@ -129,4 +129,4 @@ The `ViewToken` object type is used in `FlatList` or `SectionList` components to
 
 ---
 
-These object types help manage events, dimensions, and the rendering of React Native components. By understanding how each type is structured and used, you can efficiently handle events and layouts in your app development.
+These object types help manage events, dimensions, and the rendering of React Native components.

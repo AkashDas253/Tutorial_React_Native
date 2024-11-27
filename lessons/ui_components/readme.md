@@ -1,4 +1,4 @@
-### **User Interface Components in React Native**
+## **User Interface Components in React Native**
 
 React Native provides platform-agnostic **user interface controls** that work seamlessly across iOS and Android. Below are the details for **`Button`** and **`Switch`**, including their syntax, parameters, default values, usage, and value ranges.
 
@@ -49,4 +49,4 @@ The `Switch` component is a toggle control used for boolean inputs. It allows th
 
 ---
 
-These components provide basic and essential controls for user interactions, ensuring consistent rendering across platforms. If you need additional details on advanced features or custom UI components, feel free to ask!
+These components provide basic and essential controls for user interactions, ensuring consistent rendering across platforms.

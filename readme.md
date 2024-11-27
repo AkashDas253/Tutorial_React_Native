@@ -3,6 +3,7 @@
 This repository is meant to contain the learning and practice done using React Native.
 
 ## Lessons
+
 - [Cheatsheet](lessons/cheatsheet/readme.md)
 - [Basics](lessons/basics/readme.md)
 - [Concepts](lessons/concepts/readme.md)
@@ -22,5 +23,5 @@ This repository is meant to contain the learning and practice done using React N
 
 
 ## Mini Projects
-- [Task Taker (To Do List)](mini_projects/task-manager/)
+- [Task Taker (To Do List)](mini_projects/TaskTaker/)
 - [Calculator](mini_projects/Calculator/)

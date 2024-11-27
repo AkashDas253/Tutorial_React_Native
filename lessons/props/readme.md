@@ -237,4 +237,4 @@ Text style props are used for styling `Text` components.
 
 ---
 
-These props allow you to customize a variety of aspects of components in React Native, from layout and appearance to behavior and interactivity. For further information or examples of usage, feel free to ask!
+These props allow you to customize a variety of aspects of components in React Native, from layout and appearance to behavior and interactivity. 

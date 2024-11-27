@@ -1,4 +1,4 @@
-### Hooks
+## Hooks
 
 Hooks are functions that let you use state and other React features in functional components. They were introduced in React 16.8 to allow functional components to have state and lifecycle methods, which were previously only possible in class components.
 

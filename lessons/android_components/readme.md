@@ -1,4 +1,4 @@
-### **Android Components and APIs in React Native**
+# **Android Components and APIs in React Native**
 
 React Native offers several components and APIs that are specifically designed for **Android**. These components provide wrappers for commonly used Android classes, enabling developers to access platform-specific functionality on Android devices.
 
@@ -87,4 +87,4 @@ import { ToastAndroid } from 'react-native';
 
 ---
 
-These Android-specific components and APIs enable React Native apps to interact with platform features such as hardware buttons, permissions, and Toast messages. If you need more details or advanced examples, feel free to ask!
+These Android-specific components and APIs enable React Native apps to interact with platform features such as hardware buttons, permissions, and Toast messages.

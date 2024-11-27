@@ -1,4 +1,4 @@
-### **Basic Components in React Native**
+## **Basic Components in React Native**
 
 React Native provides essential building blocks for creating a user interface. These **basic components** are commonly used in most apps and serve as the foundation for creating interactive and visually appealing applications.
 
@@ -140,4 +140,3 @@ const styles = StyleSheet.create({
 
 ---
 
-This concise overview of basic components in React Native ensures you're well-equipped to build the foundation of your app! If you need further details or advanced components, feel free to ask.

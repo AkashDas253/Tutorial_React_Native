@@ -1,4 +1,4 @@
-### **List Views in React Native**
+# **List Views in React Native**
 
 In React Native, **`FlatList`** and **`SectionList`** are specialized components for rendering long lists of data efficiently. Unlike the generic `ScrollView`, these components render only the elements currently visible on the screen, enhancing performance for large datasets.
 
@@ -60,4 +60,4 @@ In React Native, **`FlatList`** and **`SectionList`** are specialized components
 
 ---
 
-Both `FlatList` and `SectionList` are highly efficient for rendering large lists in React Native, with `FlatList` being used for simple lists and `SectionList` being ideal for grouped or categorized data. If you need more information about optimization or advanced configurations, feel free to ask!
+Both `FlatList` and `SectionList` are highly efficient for rendering large lists in React Native, with `FlatList` being used for simple lists and `SectionList` being ideal for grouped or categorized data. 

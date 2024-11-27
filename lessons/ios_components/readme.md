@@ -1,4 +1,4 @@
-### **iOS Components and APIs in React Native**
+# **iOS Components and APIs in React Native**
 
 React Native also provides several components and APIs designed specifically for **iOS**. These components offer access to iOS-specific functionality, often wrapping UIKit classes. Below is the detailed note on **`ActionSheetIOS`**, a key iOS-specific component.
 
@@ -50,4 +50,4 @@ import { ActionSheetIOS } from 'react-native';
 
 ---
 
-This API provides an elegant and iOS-native way to display options to users. If you'd like more details or advanced examples, feel free to ask!
+This API provides an elegant and iOS-native way to display options to users. 
